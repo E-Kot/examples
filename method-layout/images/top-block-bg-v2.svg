@@ -1,0 +1,758 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1080px" height="210px" viewBox="0 0 1080 210">
+<defs>
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5225 0" result="result1"/>
+</filter>
+
+<filter id="Filter_2" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.06422 0" result="result1"/>
+</filter>
+
+<filter id="Filter_3" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.6174999999999999 0" result="result1"/>
+</filter>
+
+<filter id="Filter_4" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.44649999999999995 0" result="result1"/>
+</filter>
+
+<filter id="Filter_5" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7695 0" result="result1"/>
+</filter>
+
+<filter id="Filter_6" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5035 0" result="result1"/>
+</filter>
+
+<filter id="Filter_7" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.646 0" result="result1"/>
+</filter>
+
+<filter id="Filter_8" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7866949999999999 0" result="result1"/>
+</filter>
+
+<filter id="Filter_9" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.304 0" result="result1"/>
+</filter>
+
+<filter id="Filter_10" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.2185 0" result="result1"/>
+</filter>
+
+<filter id="Filter_11" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.34199999999999997 0" result="result1"/>
+</filter>
+
+<filter id="Filter_12" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.4275 0" result="result1"/>
+</filter>
+
+<filter id="Filter_13" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.401375 0" result="result1"/>
+</filter>
+
+<filter id="Filter_14" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.6365 0" result="result1"/>
+</filter>
+
+<filter id="Filter_15" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.30865499999999996 0" result="result1"/>
+</filter>
+
+<filter id="Filter_16" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.703 0" result="result1"/>
+</filter>
+
+<filter id="Filter_17" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.22799999999999998 0" result="result1"/>
+</filter>
+
+<filter id="Filter_18" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.592895 0" result="result1"/>
+</filter>
+
+<filter id="Filter_19" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5415 0" result="result1"/>
+</filter>
+
+<filter id="Filter_20" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7314999999999999 0" result="result1"/>
+</filter>
+
+<filter id="Filter_21" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.563255 0" result="result1"/>
+</filter>
+
+<filter id="Filter_22" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.9025 0" result="result1"/>
+</filter>
+
+<filter id="Filter_23" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.42919999999999997 0" result="result1"/>
+</filter>
+
+<filter id="Filter_24" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.405224 0" result="result1"/>
+</filter>
+
+<filter id="Filter_25" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.481 0" result="result1"/>
+</filter>
+
+<filter id="Filter_26" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5402 0" result="result1"/>
+</filter>
+
+<filter id="Filter_27" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.6215999999999999 0" result="result1"/>
+</filter>
+
+<filter id="Filter_28" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7252 0" result="result1"/>
+</filter>
+
+<filter id="Filter_29" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.35231399999999996 0" result="result1"/>
+</filter>
+
+<filter id="Filter_30" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.53465 0" result="result1"/>
+</filter>
+
+<filter id="Filter_31" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.1998 0" result="result1"/>
+</filter>
+
+<filter id="Filter_32" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5549999999999999 0" result="result1"/>
+</filter>
+
+<filter id="Filter_33" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.74 0" result="result1"/>
+</filter>
+
+<filter id="Filter_34" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.58 0" result="result1"/>
+</filter>
+
+<filter id="Filter_35" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.93 0" result="result1"/>
+</filter>
+
+<filter id="Filter_36" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.89 0" result="result1"/>
+</filter>
+
+<filter id="Filter_37" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.71 0" result="result1"/>
+</filter>
+
+<filter id="Filter_38" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.32 0" result="result1"/>
+</filter>
+
+<filter id="Filter_39" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.12 0" result="result1"/>
+</filter>
+
+<filter id="Filter_40" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.49 0" result="result1"/>
+</filter>
+
+<filter id="Filter_41" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.75 0" result="result1"/>
+</filter>
+
+<filter id="Filter_42" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.69 0" result="result1"/>
+</filter>
+
+<g id="Mask_neyiro_setyi_1_ai_Layer_1__Clip_Group__0_2_MASK_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 1711.45 797.75
+L 1596.4 0 0 230.3 115.05 1028 1711.45 797.75 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__15_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 295.25 28.2
+L 295.85 26.55 222.55 0 19 140.2 1.6 2.1 0 3.2 17.65 143.2 222.8 1.9 295.25 28.2 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 11.95 9.75
+Q 13 8 12.9 6.15 12.85 4.25 11.65 2.6 10.45 1 8.65 0.4 6.1 -0.55 3.75 0.6 1.35 1.7 0.4 4.25 -0.25 6.05 0.2 7.95 0.65 9.85 2.1 11.15 3.5 12.5 5.5 12.8 7.4 13.1 9.2 12.25 11 11.4 11.95 9.75 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__14_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 53.35 21
+L 53.9 19.35 0.6 0 0 1.65 53.35 21 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__13_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 70.65 0
+L 68.55 0 142.65 109.1 0.55 57.5 0 59.15 147.05 112.5 70.65 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__12_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 116.8 78.55
+L 115.4 77.55 39.95 180.7 1.75 0 0 0 39.1 184.8 116.8 78.55 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__11_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 9.85 1
+L 8.5 0 0 11.6 1.4 12.6 9.85 1 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__0_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 12.25 9.15
+Q 13.05 7.5 12.8 5.45 12.5 3.6 11.15 2.1 9.85 0.65 7.95 0.2 6.1 -0.25 4.2 0.4 2.4 1.1 1.2 2.65 -0.35 4.8 0.05 7.45 0.45 10.05 2.6 11.65 4.25 12.85 6.15 12.9 8.1 13 9.75 11.95 11.35 11 12.25 9.15 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__10_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 29.3 1
+L 27.95 0 0 38.25 1.35 39.25 29.3 1 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__1_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 12.25 9.15
+Q 13.1 7.35 12.8 5.45 12.5 3.5 11.15 2.1 9.85 0.65 7.95 0.2 6 -0.25 4.2 0.4 2.4 1.1 1.25 2.65 -0.35 4.85 0.05 7.45 0.5 10.15 2.65 11.65 4.2 12.8 6.15 12.9 8.05 13 9.8 11.95 11.5 10.9 12.25 9.15 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__9_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 207.4 113.6
+L 208.2 112.1 0.8 0 0 1.5 207.4 113.6 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__8_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 1.6 0
+L 0 0.55 36.5 110.45 38.15 109.9 1.6 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__7_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 74.25 0
+L 72.35 0 0 152.95 1.55 153.65 74.25 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__6_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 169.8 0
+L 167.25 0 0 152.65 1.15 153.95 169.8 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__2_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 12.75 7.65
+Q 13.2 4.95 11.75 2.8 10.3 0.65 7.6 0.1 5.65 -0.2 3.9 0.55 2.05 1.35 1.05 2.95 0 4.55 0 6.55 0 8.45 1.1 10.1 2.25 11.75 4.05 12.4 5.75 13.15 7.75 12.75 9.65 12.4 11.05 10.95 12.35 9.55 12.75 7.65 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__5_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 29.4 0.3
+L 27.7 0 0 147.55 1.7 147.85 29.4 0.3 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__3_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 12.75 7.6
+Q 13.2 4.95 11.75 2.8 10.3 0.6 7.6 0.1 5.7 -0.3 3.9 0.5 2.15 1.25 1.05 2.9 0 4.5 0 6.5 0 8.4 1.1 10.05 2.25 11.65 4.05 12.4 5.95 13.15 7.75 12.7 9.65 12.35 11.05 10.9 12.45 9.5 12.75 7.6 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__4_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 441.5 159.25
+L 440.75 157.7 341 205.05 0 0 0 2.15 340.7 206.75 341.05 206.9 441.5 159.25 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__3_0_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 2.3 0
+L 0.6 0 0 217.7 1.7 217.7 2.3 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__16_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 12.85 6.45
+Q 12.85 3.75 11 1.9 9.1 0 6.45 0 4.45 0 2.85 1.05 1.2 2.15 0.45 3.95 -0.25 5.8 0.1 7.65 0.5 9.6 1.85 10.95 3.2 12.3 5.15 12.75 7.05 13.15 8.85 12.35 10.65 11.7 11.75 10 12.85 8.35 12.85 6.45 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__2_0_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 1.5 0
+L 0 0.85 89.35 156.6 90.8 155.75 1.5 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__1_0_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 1.45 0
+L 0 0.85 10.6 19.4 12.1 18.55 1.45 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__17_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 0.85 9.65
+Q 2.2 11.95 4.75 12.65 7.3 13.35 9.6 12 11.3 11.05 12.2 9.3 13.05 7.55 12.8 5.6 12.6 3.7 11.3 2.2 10 0.75 8.1 0.2 6.15 -0.3 4.35 0.35 2.5 0.95 1.35 2.5 0.15 4 0 6 -0.15 7.95 0.85 9.65 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__18_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 1.5 0
+L 0 0.85 32.65 57.7 34.1 56.85 1.5 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__9_0_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 109.5 18.6
+L 109.8 16.55 0.3 0 0 2.05 109.5 18.6 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__19_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 15.05 10.4
+Q 15.85 8.3 15.3 5.9 14.7 3.6 13 2.05 11.3 0.5 8.95 0.1 5.7 -0.4 3.15 1.55 0.55 3.45 0.1 6.6 -0.2 8.95 0.75 11.05 1.75 13.15 3.75 14.4 5.75 15.6 8.15 15.5 10.55 15.35 12.35 14 14.3 12.6 15.05 10.4 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__8_0_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 329.85 0
+L 326.95 0 433.95 108.5 0.3 43.1 0 45.15 439.75 111.45 329.85 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__7_0_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 50.1 0
+L 47.95 0 0 184.4 2 184.9 50.1 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__6_0_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 370.85 1.85
+L 369.95 0 0 174.25 0.85 176.1 370.85 1.85 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__5_0_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 2.45 0
+L 0 0 46.4 73.8 48.15 72.7 2.45 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__20_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 14.3 3.65
+Q 12.65 0.9 9.5 0.2 6.35 -0.5 3.65 1.2 1.6 2.45 0.7 4.6 -0.3 6.75 0.1 9.05 0.55 11.35 2.15 13.1 3.75 14.75 6.05 15.3 8.35 15.85 10.55 15 12.75 14.15 14.1 12.25 15.45 10.3 15.5 7.95 15.6 5.6 14.3 3.65 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__4_0_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 0 145.3
+L 1.8 146.3 82.15 1 80.35 0 0 145.3 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__21_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 14.55 11.5
+Q 16.05 8.65 15.2 5.6 14.25 2.45 11.5 0.95 9.45 -0.2 7.1 0.05 4.8 0.2 2.9 1.7 1.15 3.1 0.35 5.4 -0.35 7.7 0.3 9.9 0.9 12.1 2.75 13.65 4.45 15.15 6.9 15.45 9.35 15.7 11.3 14.6 13.45 13.5 14.55 11.5 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__3_1_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 154 1.6
+L 152.65 0 0 133.25 1.35 134.8 154 1.6 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__2_1_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 75.35 1.55
+L 73.95 0 0 64.55 1.35 66.15 75.35 1.55 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__1_1_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 92 0
+L 89.35 0 0 109.3 1.6 110.6 92 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_1__Path__22_0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 1.9 0
+L 0 0.7 46.6 125.45 48.5 124.7 1.9 0 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_2__Path__0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 12.3 9.15
+Q 13.1 7.3 12.8 5.45 12.5 3.45 11.2 2.1 9.95 0.7 7.95 0.2 6.05 -0.25 4.25 0.4 2.35 1.1 1.25 2.65 -0.3 4.75 0.1 7.45 0.5 10.1 2.65 11.65 4.25 12.8 6.2 12.85 8.15 12.95 9.8 11.95 11.45 10.9 12.3 9.15 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_3__Compound_Path__0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 27.7 15.9
+Q 28.55 10.3 25.15 5.65 21.75 1.1 16.1 0.15 10.4 -0.7 5.8 2.65
+L 5.2 3.05
+Q 3.05 4.8 1.75 7.2 0.4 9.6 0.1 12.3 -0.6 17.95 2.95 22.5 6.4 26.95 12.1 27.75 17.9 28.45 22.35 25 26.95 21.55 27.7 15.9
+M 23.45 6.3
+Q 25 8.25 25.65 10.5 26.35 12.9 26.05 15.25 25.85 17.65 24.6 19.8 23.45 21.9 21.55 23.45
+L 21.05 23.85
+Q 16.95 26.75 12.1 26 7.2 25.3 4.2 21.3 1.15 17.4 1.8 12.45 2.45 7.5 6.3 4.4 8.25 2.85 10.5 2.2 12.9 1.5 15.25 1.8 17.6 2 19.8 3.2 21.95 4.45 23.45 6.3 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_4__Path__0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 3.5 2.05
+Q 0.45 4.5 0.05 8.3 -0.4 12.15 2.05 15.15 3.85 17.4 6.5 18.25 9.15 19.1 11.95 18.3 14.65 17.55 16.45 15.35 18.3 13.1 18.6 10.35 18.9 7.55 17.6 5 16.25 2.5 13.8 1.15 11.3 -0.25 8.5 0.05 5.65 0.3 3.5 2.05 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_5__Path__0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 11.4 10.55
+Q 12.6 9.05 12.85 7.1 13.1 5.15 12.15 3.45 11.25 1.7 9.5 0.8 7.25 -0.45 4.6 0.25 2.05 1.05 0.8 3.4 -0.15 5.15 0.05 7.05 0.2 8.95 1.45 10.5 2.6 11.95 4.55 12.6 6.4 13.15 8.3 12.6 10.1 12.05 11.4 10.55 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_6__Path__0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 11.9 9.85
+Q 13.3 7.6 12.75 5 12.15 2.4 9.9 1 7.65 -0.45 5.05 0.15 2.45 0.7 1 2.95 -0.4 5.2 0.15 7.85 0.75 10.45 3 11.85 5.25 13.25 7.85 12.7 10.45 12.1 11.9 9.85 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_7__Path__0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 3.7 0.6
+Q 1.3 1.7 0.4 4.25 -0.3 6.15 0.2 7.95 0.65 9.85 2.1 11.15 3.45 12.5 5.45 12.8 7.35 13.1 9.15 12.25 10.9 11.4 11.95 9.75 12.95 8.1 12.85 6.15 12.8 4.25 11.6 2.6 10.4 1 8.65 0.4 6.05 -0.55 3.7 0.6 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_8__Path__0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 15.45 6.95
+Q 15.15 3.85 12.65 1.75 10.8 0.2 8.45 0.05 6.15 -0.2 4.05 0.9 1.95 2.05 0.9 4.1 -0.25 6.15 0 8.5 0.3 10.9 1.75 12.65 3.15 14.4 5.5 15.15 7.75 15.85 10 15.15 12.15 14.5 13.75 12.65 15.75 10.15 15.45 6.95 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_9__Path__0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 15.5 8.25
+Q 15.65 5.9 14.5 3.9 13.3 1.9 11.2 0.8 9.05 -0.25 6.75 0.05 4.4 0.35 2.65 1.9 0.2 4.05 0.05 7.25 -0.2 10.45 1.9 12.85 3.55 14.65 5.75 15.25 8 15.85 10.25 15.1 12.45 14.35 13.9 12.5 15.35 10.6 15.5 8.25 Z"/>
+</g>
+
+<g id="neyiro_setyi_1_ai_Layer_10__Path__0_Layer0_0_FILL">
+<path fill="#FFF960" stroke="none" d="
+M 15.25 9.7
+Q 16.1 6.6 14.45 3.8 12.8 1 9.7 0.25 7.45 -0.35 5.2 0.4 3 1.2 1.6 3.05 0.15 5 0.05 7.3 -0.1 9.7 1.1 11.65 2.25 13.7 4.4 14.7 6.5 15.7 8.85 15.4 11.25 15.1 12.9 13.5 14.7 11.9 15.25 9.7 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, -288.95,-215) ">
+<mask id="Mask_Mask_1">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Mask_neyiro_setyi_1_ai_Layer_1__Clip_Group__0_2_MASK_0_FILL"/>
+</g>
+</mask>
+
+<g mask="url(#Mask_Mask_1)">
+<g transform="matrix( 1, 0, 0, 1, 289.95,182) ">
+<g transform="matrix( 1, 0, 0, 1, 117.1,13.65) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_1)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__15_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 406.2,34.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 412.35,40.2) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__14_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 465.7,2.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__13_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 401.6,2.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__12_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 517,68) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__11_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 519.75,62.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__0_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 525.5,29.75) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_7)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__10_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 547.7,23.8) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_8)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__1_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 402.75,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__9_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 573.25,2.65) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__8_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 134.65,2.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_11)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__7_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 134.85,2.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_12)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__6_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 462.35,30.8) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_13)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__2_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 440.25,37.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_14)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__5_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 434.7,178.4) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_15)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__3_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,26.35) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_16)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__4_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 340.15,14.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_17)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__3_0_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 334.6,225.9) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_18)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__16_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 250.95,76.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_19)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__2_0_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 240.35,57.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_20)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__1_0_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 234.65,51.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_21)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__17_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 207.7,0.75) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_22)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__18_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 751.8,168.9) ">
+<g transform="matrix( 1, 0, 0, 1, 0,41.65) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_23)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__9_0_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 101.9,51.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_24)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__19_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 109.5,15.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_25)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__8_0_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 74.7,15.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_26)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__7_0_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 75.3,24.55) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_27)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__6_0_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 264.95,15.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_28)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__5_0_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 304.45,80.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_29)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__20_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 230.95,87.85) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_28)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__4_0_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 224.1,225.9) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_30)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__21_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 231.15,99.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_28)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__3_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 383.8,35.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_31)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__2_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 545.55,15.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_32)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__1_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 498.8,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_33)" xlink:href="#neyiro_setyi_1_ai_Layer_1__Path__22_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 513.25,40.65) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_34)" xlink:href="#neyiro_setyi_1_ai_Layer_2__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="punkt11" transform="matrix( 1, 0, 0, 1, 122.55,107.55) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_35)" xlink:href="#neyiro_setyi_1_ai_Layer_3__Compound_Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="punkt1" transform="matrix( 1, 0, 0, 1, 127.15,112.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_36)" xlink:href="#neyiro_setyi_1_ai_Layer_4__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 606.1,73.4) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_37)" xlink:href="#neyiro_setyi_1_ai_Layer_5__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 246.25,37.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_38)" xlink:href="#neyiro_setyi_1_ai_Layer_6__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 460.55,20.95) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_39)" xlink:href="#neyiro_setyi_1_ai_Layer_7__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 1001.45,71.25) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_40)" xlink:href="#neyiro_setyi_1_ai_Layer_8__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 839.55,46.55) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_41)" xlink:href="#neyiro_setyi_1_ai_Layer_9__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 530.8,145.9) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_42)" xlink:href="#neyiro_setyi_1_ai_Layer_10__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>

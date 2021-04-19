@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" width="198" height="288" viewBox="0 0 198 288" fill="none">
+    <style>
+@keyframes a0_t { 0% { transform: translate(0px,60.415098px); } 33.3333% { transform: translate(0px,60.415098px); } 86.6666% { transform: translate(0px,0px); } 100% { transform: translate(0px,-40px); } }
+@keyframes a0_o { 0% { opacity: 0; } 13.3333% { opacity: 0; } 33.3333% { opacity: 0.08; } 100% { opacity: 0; } }
+@keyframes a1_t { 0% { transform: translate(0px,0px); } 20% { transform: translate(0px,0px); } 86.6666% { transform: translate(0px,-20px); } 100% { transform: translate(0px,-20px); } }
+@keyframes a1_o { 0% { opacity: 0; } 20% { opacity: 0.04; } 86.6667% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes a2_t { 0% { transform: translate(0px,0px); } 26.6666% { transform: translate(0px,0px); } 93.3333% { transform: translate(0px,-30px); } 100% { transform: translate(0px,-30px); } }
+@keyframes a2_o { 0% { opacity: 0; } 6.6667% { opacity: 0; } 26.6667% { opacity: 0; } 93.3333% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes a3_t { 0% { transform: translate(0px,0px); } 20% { transform: translate(0px,0px); } 86.6666% { transform: translate(0px,-30px); } 100% { transform: translate(0px,-30px); } }
+@keyframes a3_o { 0% { opacity: 0; } 20% { opacity: 0.08; } 86.6667% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes a4_t { 0% { transform: translate(0px,0px); } 13.3333% { transform: translate(0px,0px); } 33.3333% { transform: translate(0px,0px); } 100% { transform: translate(0px,-20px); } }
+@keyframes a4_o { 0% { opacity: 0; } 13.3333% { opacity: 0; } 33.3333% { opacity: 0.04; } 100% { opacity: 0; } }
+    </style>
+    <path opacity="0" fill-rule="evenodd" clip-rule="evenodd" d="M103.024,0L103.024,25.7554L77.2683,25.7554L77.2683,53.9275L103.024,53.9275L103.024,79.6829L131.196,79.6829L131.196,53.9275L156.951,53.9275L156.951,25.7554L131.196,25.7554L131.196,0L103.024,0Z" fill="#45545F" transform="translate(117.11,100.257) translate(-117.11,-39.8414)" style="animation: 1.5s linear infinite both a0_t, 1.5s linear infinite both a0_o;"/>
+    <path opacity="0" fill-rule="evenodd" clip-rule="evenodd" d="M13.0078,107.854L13.0078,120.862L0,120.862L0,135.09L13.0078,135.09L13.0078,148.098L27.2361,148.098L27.2361,135.09L40.2439,135.09L40.2439,120.862L27.2361,120.862L27.2361,107.854L13.0078,107.854Z" fill="#45545F" transform="translate(20.122,127.976) translate(-20.122,-127.976)" style="animation: 1.5s linear infinite both a1_t, 1.5s linear infinite both a1_o;"/>
+    <path opacity="0" fill-rule="evenodd" clip-rule="evenodd" d="M175.122,148.098L175.122,159.024L164.195,159.024L164.195,170.976L175.122,170.976L175.122,181.903L187.073,181.903L187.073,170.976L198,170.976L198,159.024L187.073,159.024L187.073,148.098L175.122,148.098Z" fill="#45545F" transform="translate(181.097,165) translate(-181.097,-165)" style="animation: 1.5s linear infinite both a2_t, 1.5s linear infinite both a2_o;"/>
+    <path opacity="0" fill-rule="evenodd" clip-rule="evenodd" d="M76.5199,189.146L76.5199,204.496L61.1707,204.496L61.1707,221.285L76.5199,221.285L76.5199,236.634L93.3094,236.634L93.3094,221.285L108.659,221.285L108.659,204.496L93.3094,204.496L93.3094,189.146L76.5199,189.146Z" fill="#45545F" transform="translate(84.9149,212.89) translate(-84.9149,-212.89)" style="animation: 1.5s linear infinite both a3_t, 1.5s linear infinite both a3_o;"/>
+    <path opacity="0" fill-rule="evenodd" clip-rule="evenodd" d="M160.398,256.756L160.398,266.642L150.512,266.642L150.512,277.456L160.398,277.456L160.398,287.341L171.212,287.341L171.212,277.456L181.098,277.456L181.098,266.642L171.212,266.642L171.212,256.756L160.398,256.756Z" fill="#45545F" style="animation: 1.5s linear infinite both a4_t, 1.5s linear infinite both a4_o;"/>
+</svg>
